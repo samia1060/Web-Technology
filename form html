@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Profile</title>
+</head>
+
+<body>
+    <h1>Profile</h1>
+    <br><br>
+    <table>
+        <td>
+            <fieldset>
+                <legend>General Information:</legend>
+                <table>
+                    <td>
+                        <table>
+                            <tr>
+                                <td><h3>First Name</h3></td>
+                                <td>:</td> 
+                                <td>Samia</td>
+                            </tr>
+                            <tr>
+                                <td><h3>Last Name</h3></td>
+                                <td>:</td>
+                                <td>Khan</td>
+                            </tr>
+                            <tr>
+                                <td><h3>Gender</h3></td>
+                                <td>:</td>
+                                <td>Female</td>
+                            </tr>
+                            <tr>
+                                <td><h3>Father's Name</h3></td>
+                                <td>:</td>
+                                <td>Mostofa Khan</td>
+                            </tr>
+                            <tr>
+                                <td><h3>Mother's Name</h3></td>
+                                <td>:</td>
+                                <td> Mrs. Marjina </td>
+                            </tr>
+                            <tr>
+                                <td><h3>Blood Group</h3></td>
+                                <td>:</td>
+                                <td>O+</td>
+                            </tr>
+                            <tr>
+                                <td><h3>Religion</h3></td>
+                                <td>:</td>
+                                <td>Islam</td>
+                            </tr>
+                        </table>
+                    </td>
+                    <td><img src="c:\Users\ASUS\Downloads\profile.jpg" height="200" width="180"></td>
+                </table>
+            </fieldset>
+        </td>
+
+        <td>
+            <fieldset>
+                <legend>Contact Information</legend>
+                <table>
+                    <tr>
+                        <td><h3>Email</h3></td>
+                        <td>:</td>
+                        <td>khantonny1060@gmail.com</td>
+                    </tr>
+
+                    <tr>
+                        <td><h3>Phone/Moble</h3></td>
+                        <td>:</td>
+                        <td>+880-01617XXXXXX</td>
+                    </tr>
+                    <tr>
+                        <td><h3>Website</h3></td>
+                        <td>:</td>
+                        <td>https://samia.me</td>
+                    </tr>
+                    <tr>
+                        <td><h3>Present Address</h3></td>
+                        <td>:</td>
+                        <td>House no.32, c Block, Bashundhara, Dhaka</td>
+                    </tr>
+                </table>
+            </fieldset>
+        </td>
+    </table>
+</body>
+
+</html>
